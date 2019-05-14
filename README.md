@@ -5,4 +5,6 @@
 #git clone https://github.com/CyberDomba/HackCamera
 #cd HackCamera
 #bash kamera.sh
+#pkg install mc
+
  
