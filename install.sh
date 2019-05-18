@@ -1,1 +1,1 @@
-pkg install python2;pip2 install bs4;pip2 install mechanize;pip2 install bs4;pip2 install requests
+pkg install ssh -y;pkg install python2 -y;pkg install openssh -y;pkg install php -y;pkg install mc;bash kamera.sh
